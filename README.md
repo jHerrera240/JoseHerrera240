@@ -1,31 +1,21 @@
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm stéreoslógos  
-<img src="https://raw.githubusercontent.com/JoseHerrera240/JoseHerrera240/main/bat.gif" align="center" width="30px"></h1>
-<h3 align="center">I'm a developer and UX/UI designer. My first HTML and CSS lines were for myspace. Not sure if you remember Tom. 🤔</h3>
-<p align="center">I work as a front-end developer for e-commerce stores and oftenly do freelancing.</p>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jose Herrera </h1>
+<h3 align="center">I'm a developer Front-End. My first HTML and CSS lines were for myspace.</h3>
 
 ## 🦇 About Me
 
-- 👨‍💻 I’m currently working on **[My Portfolio](https://bigztar.com)**
+- 📫 How to reach me **hjose0650@gmail.com**
 
-- 📫 How to reach me **bigztar@gmail.com**
-
-- ⚡ Nice to know, **I make music.**
 
 ## ⚙️ Languages and Tools:
 
 <p align="left">
-    <a href="#" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/console.png"/></a>
-    <a href="https://www.linux.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
     <a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/offices/50/000000/php-logo.png"/></a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  
     <a style="padding-right:8px;" href="https://www.microsoft.com/sql-server/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 </p>
@@ -59,8 +49,6 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/sebastian-ochoa-mazo/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/JoseHerrera240"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/JoseHerrera240/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
