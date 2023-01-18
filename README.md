@@ -49,7 +49,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.instagram.com/JoseHerrera240/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+https://github-readme-activity-graph.cyclic.app/graph?username=jorgeemherrera&theme=dracula)](https://github.com/JoseHerrera240/github-readme-activity-graph
 
 </p>
 
