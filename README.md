@@ -37,8 +37,7 @@
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseHerrera240&layout=compact)](https://github.com/JoseHerrera240/github-readme-stats)
-
+![Jose github stats](https://github-readme-stats.vercel.app/api?username=JoseHerrera240&show_icons=true&theme=dark)
 <br/>
 <br/>
 
