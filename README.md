@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-![Jose github stats](https://github-readme-stats.vercel.app/api?username=JoseHerrera240&show_icons=true&theme=dark)
+![Jose github stats](https://github-readme-stats.vercel.app/api?username=JoseHerrera240&show_icons=true&theme=gruvbox)
 <br/>
 <br/>
 
