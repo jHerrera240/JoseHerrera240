@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/JoseHerrera240/github-readme-activity-graph"><img alt="JoseHerrera240's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JoseHerrera240&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseHerrera240&layout=compact)](https://github.com/JoseHerrera240/github-readme-stats)
 
 <br/>
 <br/>
